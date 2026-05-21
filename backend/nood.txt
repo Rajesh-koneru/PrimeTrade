@@ -1,0 +1,3 @@
+alembic upgrade head   -- migration
+alembic revision --autogenerate -m "initial"  --make migration
+Authorization -- authorization header
